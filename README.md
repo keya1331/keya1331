@@ -14,7 +14,7 @@ sometimes it’s a feeling.
 
 ---
 
-i believe design isn't how it looks —  
+i believe design isn't how it looks -  
 it's how it *listens back.*
 
 ---
