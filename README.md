@@ -20,7 +20,6 @@ it's how it *listens back.*
 ---
 
 ## find me where stories begin 🪶
-- portfolio → [building]
 - linkedin → [https://www.linkedin.com/in/keya-s-patel/]
 - email → [keya2612@gmail.com]
 
